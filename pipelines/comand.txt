@@ -1,0 +1,2 @@
+from project root:
+python -m pipelines.pipeline

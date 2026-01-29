@@ -1,0 +1,551 @@
+{
+  "noise": {
+    "unit_number": 1,
+    "unit_title": "Data Communication & Physical Layer",
+    "group_a": 1,
+    "group_b": 0,
+    "group_c": 0,
+    "weighted_score": 1,
+    "yield": "low"
+  },
+  "checksum": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 1,
+    "group_b": 2,
+    "group_c": 1,
+    "weighted_score": 12,
+    "yield": "medium"
+  },
+  "hdlc": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 2,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 7,
+    "yield": "medium"
+  },
+  "token passing": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 1,
+    "group_b": 0,
+    "group_c": 0,
+    "weighted_score": 1,
+    "yield": "low"
+  },
+  "ipv6": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 1,
+    "group_b": 0,
+    "group_c": 0,
+    "weighted_score": 1,
+    "yield": "low"
+  },
+  "link state routing": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 1,
+    "group_b": 0,
+    "group_c": 0,
+    "weighted_score": 1,
+    "yield": "low"
+  },
+  "nrz-l": {
+    "unit_number": 1,
+    "unit_title": "Data Communication & Physical Layer",
+    "group_a": 0,
+    "group_b": 1,
+    "group_c": 1,
+    "weighted_score": 8,
+    "yield": "medium"
+  },
+  "transmission impairments": {
+    "unit_number": 1,
+    "unit_title": "Data Communication & Physical Layer",
+    "group_a": 0,
+    "group_b": 1,
+    "group_c": 1,
+    "weighted_score": 8,
+    "yield": "medium"
+  },
+  "inverse tdm": {
+    "unit_number": 1,
+    "unit_title": "Data Communication & Physical Layer",
+    "group_a": 0,
+    "group_b": 1,
+    "group_c": 0,
+    "weighted_score": 3,
+    "yield": "low"
+  },
+  "bit stuffing": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 1,
+    "group_b": 4,
+    "group_c": 2,
+    "weighted_score": 23,
+    "yield": "high"
+  },
+  "error correction": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "hamming code": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 1,
+    "group_b": 0,
+    "group_c": 3,
+    "weighted_score": 16,
+    "yield": "high"
+  },
+  "stop-and-wait arq": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "authentication": {
+    "unit_number": 5,
+    "unit_title": "Application Layer & Network Security",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "pure aloha": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 1,
+    "group_b": 0,
+    "group_c": 6,
+    "weighted_score": 31,
+    "yield": "high"
+  },
+  "csma": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 1,
+    "group_b": 4,
+    "group_c": 2,
+    "weighted_score": 23,
+    "yield": "high"
+  },
+  "distance vector routing": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 0,
+    "group_b": 1,
+    "group_c": 4,
+    "weighted_score": 23,
+    "yield": "high"
+  },
+  "cidr": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 2,
+    "weighted_score": 10,
+    "yield": "medium"
+  },
+  "nat": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "ethernet": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 2,
+    "weighted_score": 10,
+    "yield": "medium"
+  },
+  "cdma": {
+    "unit_number": 6,
+    "unit_title": "Advanced / Supplementary Topics",
+    "group_a": 0,
+    "group_b": 1,
+    "group_c": 1,
+    "weighted_score": 8,
+    "yield": "medium"
+  },
+  "ipv4": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 3,
+    "group_b": 1,
+    "group_c": 4,
+    "weighted_score": 26,
+    "yield": "high"
+  },
+  "stop-and-wait protocol": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 0,
+    "group_b": 1,
+    "group_c": 1,
+    "weighted_score": 8,
+    "yield": "medium"
+  },
+  "classful addressing": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 0,
+    "group_b": 2,
+    "group_c": 1,
+    "weighted_score": 11,
+    "yield": "medium"
+  },
+  "static routing": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 2,
+    "weighted_score": 10,
+    "yield": "medium"
+  },
+  "window size": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 3,
+    "weighted_score": 15,
+    "yield": "high"
+  },
+  "coaxial cable": {
+    "unit_number": 1,
+    "unit_title": "Data Communication & Physical Layer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "subnetting": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 2,
+    "weighted_score": 10,
+    "yield": "medium"
+  },
+  "rip": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 2,
+    "weighted_score": 10,
+    "yield": "medium"
+  },
+  "ospf": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "digital signature": {
+    "unit_number": 5,
+    "unit_title": "Application Layer & Network Security",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "arp": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "sliding window protocol": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 1,
+    "group_b": 0,
+    "group_c": 0,
+    "weighted_score": 1,
+    "yield": "low"
+  },
+  "slotted aloha": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 0,
+    "group_b": 1,
+    "group_c": 0,
+    "weighted_score": 3,
+    "yield": "low"
+  },
+  "leaky bucket algorithm": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 0,
+    "group_b": 1,
+    "group_c": 2,
+    "weighted_score": 13,
+    "yield": "medium"
+  },
+  "nrz-i": {
+    "unit_number": 1,
+    "unit_title": "Data Communication & Physical Layer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "selective repeat arq": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 1,
+    "group_b": 0,
+    "group_c": 2,
+    "weighted_score": 11,
+    "yield": "medium"
+  },
+  "go-back-n arq": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 0,
+    "group_b": 1,
+    "group_c": 2,
+    "weighted_score": 13,
+    "yield": "medium"
+  },
+  "datagram": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 1,
+    "group_b": 0,
+    "group_c": 3,
+    "weighted_score": 16,
+    "yield": "high"
+  },
+  "dijkstra\u2019s algorithm": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "congestion control": {
+    "unit_number": 4,
+    "unit_title": "Transport Layer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 2,
+    "weighted_score": 10,
+    "yield": "medium"
+  },
+  "circuit switching": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 1,
+    "group_b": 1,
+    "group_c": 2,
+    "weighted_score": 14,
+    "yield": "medium"
+  },
+  "dqdb": {
+    "unit_number": 6,
+    "unit_title": "Advanced / Supplementary Topics",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "icmp": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "http": {
+    "unit_number": 5,
+    "unit_title": "Application Layer & Network Security",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "polling": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "hamming distance": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 2,
+    "group_b": 0,
+    "group_c": 0,
+    "weighted_score": 2,
+    "yield": "low"
+  },
+  "tcp/ip model": {
+    "unit_number": 1,
+    "unit_title": "Data Communication & Physical Layer",
+    "group_a": 0,
+    "group_b": 1,
+    "group_c": 0,
+    "weighted_score": 3,
+    "yield": "low"
+  },
+  "bluetooth": {
+    "unit_number": 1,
+    "unit_title": "Data Communication & Physical Layer",
+    "group_a": 0,
+    "group_b": 1,
+    "group_c": 2,
+    "weighted_score": 13,
+    "yield": "medium"
+  },
+  "tcp header": {
+    "unit_number": 4,
+    "unit_title": "Transport Layer",
+    "group_a": 0,
+    "group_b": 1,
+    "group_c": 1,
+    "weighted_score": 8,
+    "yield": "medium"
+  },
+  "protocols and standards": {
+    "unit_number": 1,
+    "unit_title": "Data Communication & Physical Layer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "qam": {
+    "unit_number": 1,
+    "unit_title": "Data Communication & Physical Layer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "smtp": {
+    "unit_number": 5,
+    "unit_title": "Application Layer & Network Security",
+    "group_a": 1,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 6,
+    "yield": "medium"
+  },
+  "token bucket algorithm": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 1,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 6,
+    "yield": "medium"
+  },
+  "twisted pair cable": {
+    "unit_number": 1,
+    "unit_title": "Data Communication & Physical Layer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "autonomous systems": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 1,
+    "group_b": 0,
+    "group_c": 0,
+    "weighted_score": 1,
+    "yield": "low"
+  },
+  "piggybacking": {
+    "unit_number": 2,
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "group_a": 0,
+    "group_b": 1,
+    "group_c": 0,
+    "weighted_score": 3,
+    "yield": "low"
+  },
+  "dhcp": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "vpn": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 1,
+    "group_b": 0,
+    "group_c": 0,
+    "weighted_score": 1,
+    "yield": "low"
+  },
+  "count-to-infinity problem": {
+    "unit_number": 3,
+    "unit_title": "Network Layer",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  },
+  "telnet": {
+    "unit_number": 5,
+    "unit_title": "Application Layer & Network Security",
+    "group_a": 0,
+    "group_b": 0,
+    "group_c": 1,
+    "weighted_score": 5,
+    "yield": "low"
+  }
+}

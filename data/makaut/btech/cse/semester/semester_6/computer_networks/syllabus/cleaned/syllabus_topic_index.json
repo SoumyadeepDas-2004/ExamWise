@@ -1,0 +1,1154 @@
+{
+  "data communication components": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "representation of data and data flow": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "computer networks and network connections": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "network topologies": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "protocols and standards": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "network models": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "iso-osi reference model": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "tcp/ip model": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "comparison of osi and tcp/ip models": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "layered network architecture and advantages": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "baseband transmission": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "broadband transmission": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "transmission impairments": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "attenuation": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "noise": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "distortion": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "guided media": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "twisted pair cable": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "coaxial cable": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "fiber optic cable": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "wireless media": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "microwave": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "satellite": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "wimax": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "bluetooth": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    },
+    {
+      "unit_number": 6,
+      "unit_title": "Advanced / Supplementary Topics"
+    }
+  ],
+  "wired lan": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "wireless lan": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "connecting lans": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "virtual lan (vlan)": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "multiplexing techniques": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "frequency division multiplexing (fdm)": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "time division multiplexing (tdm)": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "inverse tdm": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "wavelength division multiplexing (wdm)": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "guard bands": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "spread spectrum concepts": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "frequency hopping spread spectrum (fhss)": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "direct sequence spread spectrum (dsss)": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "line coding and signaling": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "bit rate vs baud rate": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "signaling rate and pulse rate": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "encoding techniques": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "nrz-l": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "nrz-i": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "rz": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "manchester encoding": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "differential manchester encoding": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "qpsk": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "qam": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "fsk": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "channel capacity": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "nyquist theorem": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "shannon\u2019s theorem": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "sampling and bandwidth": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "nyquist sampling rate": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "bandwidth calculation": [
+    {
+      "unit_number": 1,
+      "unit_title": "Data Communication & Physical Layer"
+    }
+  ],
+  "framing concepts": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "bit stuffing": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "byte stuffing": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "parity check (1d, 2d)": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "checksum": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "cyclic redundancy check (crc)": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "error correction": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "hamming code": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "hamming distance": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "single-bit errors": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "burst errors": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "stop-and-wait protocol": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "sliding window protocol": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "stop-and-wait arq": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "acknowledgement numbering": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "efficiency calculation": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "go-back-n arq": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "window size": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "nak handling": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "channel utilization": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "selective repeat arq": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "sender window": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "receiver window": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "piggybacking": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "random access protocols": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "pure aloha": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "slotted aloha": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "csma": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "csma/cd": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "csma/ca": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "controlled access protocols": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "polling": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "token passing": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "ethernet": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "ieee 802.3 frame format": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "minimum frame length": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "hdlc": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "bit-oriented protocol": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "data transparency": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "circuit switching": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "packet switching": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "datagram": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    },
+    {
+      "unit_number": 4,
+      "unit_title": "Transport Layer"
+    }
+  ],
+  "virtual circuit": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "message switching": [
+    {
+      "unit_number": 2,
+      "unit_title": "Data Link Layer & Medium Access Sublayer"
+    }
+  ],
+  "logical (ip) addressing": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "physical (mac) addressing": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "ipv4": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "classful addressing": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "subnetting": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "supernetting": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "cidr": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "nat": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "ipv6": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "ipv6 header format": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "advantages of ipv6 over ipv4": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "arp": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "rarp": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "bootp": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "dhcp": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "static routing": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "dynamic routing": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "distance vector routing": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "rip": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "count-to-infinity problem": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "split horizon": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "link state routing": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "ospf": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "dijkstra\u2019s algorithm": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "border gateway protocol (bgp)": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "inter-as routing": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "intra-as routing": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "autonomous systems": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "packet delivery": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "packet forwarding": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "icmp": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "ttl field": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "ip datagram format": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "vpn": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "vlan": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "firewalls": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    },
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "quality of service (qos)": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "leaky bucket algorithm": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "token bucket algorithm": [
+    {
+      "unit_number": 3,
+      "unit_title": "Network Layer"
+    }
+  ],
+  "process-to-process communication": [
+    {
+      "unit_number": 4,
+      "unit_title": "Transport Layer"
+    }
+  ],
+  "transmission control protocol (tcp)": [
+    {
+      "unit_number": 4,
+      "unit_title": "Transport Layer"
+    }
+  ],
+  "connection-oriented service": [
+    {
+      "unit_number": 4,
+      "unit_title": "Transport Layer"
+    }
+  ],
+  "tcp header": [
+    {
+      "unit_number": 4,
+      "unit_title": "Transport Layer"
+    }
+  ],
+  "three-way handshake": [
+    {
+      "unit_number": 4,
+      "unit_title": "Transport Layer"
+    }
+  ],
+  "congestion control": [
+    {
+      "unit_number": 4,
+      "unit_title": "Transport Layer"
+    }
+  ],
+  "user datagram protocol (udp)": [
+    {
+      "unit_number": 4,
+      "unit_title": "Transport Layer"
+    }
+  ],
+  "connectionless service": [
+    {
+      "unit_number": 4,
+      "unit_title": "Transport Layer"
+    }
+  ],
+  "stream control transmission protocol (sctp)": [
+    {
+      "unit_number": 4,
+      "unit_title": "Transport Layer"
+    }
+  ],
+  "tcp congestion avoidance": [
+    {
+      "unit_number": 4,
+      "unit_title": "Transport Layer"
+    }
+  ],
+  "slow start": [
+    {
+      "unit_number": 4,
+      "unit_title": "Transport Layer"
+    }
+  ],
+  "additive increase multiplicative decrease (aimd)": [
+    {
+      "unit_number": 4,
+      "unit_title": "Transport Layer"
+    }
+  ],
+  "open-loop congestion control": [
+    {
+      "unit_number": 4,
+      "unit_title": "Transport Layer"
+    }
+  ],
+  "closed-loop congestion control": [
+    {
+      "unit_number": 4,
+      "unit_title": "Transport Layer"
+    }
+  ],
+  "domain name system (dns)": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "recursive queries": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "iterative queries": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "dynamic dns (ddns)": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "http": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "https": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "file transfer protocol (ftp)": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "telnet": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "electronic mail": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "smtp": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "pop3": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "imap": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "simple network management protocol (snmp)": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "world wide web (www)": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "cryptography basics": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "symmetric encryption": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "asymmetric encryption": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "rsa": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "digital signature": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "key management": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "key distribution centre (kdc)": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "key agreement": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "key transport": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "authentication": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "integrity": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "non-repudiation": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "proxy servers": [
+    {
+      "unit_number": 5,
+      "unit_title": "Application Layer & Network Security"
+    }
+  ],
+  "wireless networks": [
+    {
+      "unit_number": 6,
+      "unit_title": "Advanced / Supplementary Topics"
+    }
+  ],
+  "ieee 802.11 (wi-fi)": [
+    {
+      "unit_number": 6,
+      "unit_title": "Advanced / Supplementary Topics"
+    }
+  ],
+  "dqdb": [
+    {
+      "unit_number": 6,
+      "unit_title": "Advanced / Supplementary Topics"
+    }
+  ],
+  "fddi": [
+    {
+      "unit_number": 6,
+      "unit_title": "Advanced / Supplementary Topics"
+    }
+  ],
+  "wan technologies": [
+    {
+      "unit_number": 6,
+      "unit_title": "Advanced / Supplementary Topics"
+    }
+  ],
+  "isdn": [
+    {
+      "unit_number": 6,
+      "unit_title": "Advanced / Supplementary Topics"
+    }
+  ],
+  "atm": [
+    {
+      "unit_number": 6,
+      "unit_title": "Advanced / Supplementary Topics"
+    }
+  ],
+  "frame relay": [
+    {
+      "unit_number": 6,
+      "unit_title": "Advanced / Supplementary Topics"
+    }
+  ],
+  "cdma": [
+    {
+      "unit_number": 6,
+      "unit_title": "Advanced / Supplementary Topics"
+    }
+  ],
+  "intranet vs internet": [
+    {
+      "unit_number": 6,
+      "unit_title": "Advanced / Supplementary Topics"
+    }
+  ]
+}

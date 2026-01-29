@@ -1,0 +1,216 @@
+{
+  "university": "MAKAUT",
+  "programme": "B.Tech CSE",
+  "semester": 6,
+  "subject": "Computer Networks",
+  "subject_code": "PCC-CS602",
+  "year": 2025,
+  "groups": {
+    "A": [
+      {
+        "question_id": "2025-A-1",
+        "text": "Define Data Rate in terms of transmission.",
+        "marks": 1
+      },
+      {
+        "question_id": "2025-A-2",
+        "text": "Name one intradomain routing algorithm.",
+        "marks": 1
+      },
+      {
+        "question_id": "2025-A-3",
+        "text": "Which transport layer protocol is used for SMTP?",
+        "marks": 1
+      },
+      {
+        "question_id": "2025-A-4",
+        "text": "Write one advantage of VPN.",
+        "marks": 1
+      },
+      {
+        "question_id": "2025-A-5",
+        "text": "If there are n number of nodes in a network, how many physical links are required in case of Mesh topology?",
+        "marks": 1
+      },
+      {
+        "question_id": "2025-A-6",
+        "text": "What is the maximum efficiency achievable in Pure ALOHA?",
+        "marks": 1
+      },
+      {
+        "question_id": "2025-A-7",
+        "text": "What is the purpose of Class D address?",
+        "marks": 1
+      },
+      {
+        "question_id": "2025-A-8",
+        "text": "The technique of temporarily delaying outgoing acknowledgements so that they can be hooked onto the next outgoing data frame is called ________.",
+        "marks": 1
+      },
+      {
+        "question_id": "2025-A-9",
+        "text": "What is DNS?",
+        "marks": 1
+      },
+      {
+        "question_id": "2025-A-10",
+        "text": "Which technique is used to detect and correct single bit error?",
+        "marks": 1
+      },
+      {
+        "question_id": "2025-A-11",
+        "text": "Which protocol is used to get the MAC address given any IP address?",
+        "marks": 1
+      },
+      {
+        "question_id": "2025-A-12",
+        "text": "Which layer is responsible for host-to-host delivery?",
+        "marks": 1
+      }
+    ],
+    "B": [
+      {
+        "question_id": "2025-B-1",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Compare and contrast between Circuit Switching and Packet Switching."
+          }
+        ]
+      },
+      {
+        "question_id": "2025-B-2",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Discuss Mesh topology along with a diagram."
+          }
+        ]
+      },
+      {
+        "question_id": "2025-B-3",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "State one advantage and one disadvantage of Independent Acknowledgement and Cumulative Acknowledgement each. In Go-Back-N ARQ, if both sender window size and receiver window size is 1, what does it indicate?"
+          }
+        ]
+      },
+      {
+        "question_id": "2025-B-4",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Explain CRC with a suitable example."
+          }
+        ]
+      },
+      {
+        "question_id": "2025-B-5",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "What are the two possible transport services? What is meant by segment? What is congestion?"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "question_id": "2025-C-1",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Explain bit stuffing method with a suitable example."
+          },
+          {
+            "label": "b",
+            "text": "Let us assume that data 111001101 is transmitted and the received code is 110001101. Detect and correct the error using Hamming code."
+          },
+          {
+            "label": "c",
+            "text": "State the functionalities of MAC sublayer."
+          }
+        ]
+      },
+      {
+        "question_id": "2025-C-2",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Explain Distance Vector Routing algorithm with an example."
+          },
+          {
+            "label": "b",
+            "text": "What do you mean by count-to-infinity problem? How is this problem addressed?"
+          }
+        ]
+      },
+      {
+        "question_id": "2025-C-3",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Explain the functionalities of the Transport layer."
+          },
+          {
+            "label": "b",
+            "text": "Explain Leaky Bucket algorithm."
+          },
+          {
+            "label": "c",
+            "text": "Briefly explain different open loop congestion control techniques."
+          }
+        ]
+      },
+      {
+        "question_id": "2025-C-4",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "DNS"
+          },
+          {
+            "label": "b",
+            "text": "FTP"
+          },
+          {
+            "label": "c",
+            "text": "Firewall"
+          },
+          {
+            "label": "d",
+            "text": "TELNET"
+          }
+        ]
+      },
+      {
+        "question_id": "2025-C-5",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "An ISP is granted a block of addresses starting with 190.100.0.0/16 (65,536 addresses). The ISP needs to distribute these addresses to three groups of customers: (i) First group: 64 customers, each needs 256 addresses (ii) Second group: 128 customers, each needs 128 addresses (iii) Third group: 128 customers, each needs 64 addresses. Design the sub-blocks and find how many addresses are still available after allocation."
+          },
+          {
+            "label": "b",
+            "text": "CIDR receives a packet with address 131.23.151.76. Routing table entries: 131.16.0.0/12 → Interface 3, 131.28.0.0/14 → Interface 5, 131.19.0.0/16 → Interface 2, 131.22.0.0/15 → Interface 1. Explain which interface the router chooses and why."
+          },
+          {
+            "label": "c",
+            "text": "What do you mean by subnetting and supernetting?"
+          }
+        ]
+      }
+    ]
+  }
+}

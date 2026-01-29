@@ -1,0 +1,252 @@
+{
+  "university": "MAKAUT",
+  "programme": "B.Tech CSE",
+  "semester": 6,
+  "subject": "Computer Networks",
+  "subject_code": "PCC-CS602",
+  "year": 2018,
+  "groups": {
+    "A": [
+      {
+        "question_id": "2018-A-1",
+        "text": "The packet of information at the application layer is called ______.",
+        "marks": 1
+      },
+      {
+        "question_id": "2018-A-2",
+        "text": "HDLC (High-Level Data Link Control) is a ______ protocol.",
+        "marks": 1
+      },
+      {
+        "question_id": "2018-A-3",
+        "text": "If subnet mask is 255.255.252.0, how many subnets are available?",
+        "marks": 1
+      },
+      {
+        "question_id": "2018-A-4",
+        "text": "Connection establishment in TCP involves a ______ handshake.",
+        "marks": 1
+      },
+      {
+        "question_id": "2018-A-5",
+        "text": "Port number in a packet indicates ______.",
+        "marks": 1
+      },
+      {
+        "question_id": "2018-A-6",
+        "text": "Router solicitation and advertisement messages are used by ______.",
+        "marks": 1
+      },
+      {
+        "question_id": "2018-A-7",
+        "text": "At which layer does circuit switching take place?",
+        "marks": 1
+      },
+      {
+        "question_id": "2018-A-8",
+        "text": "The total number of links required to connect n devices using mesh topology is ______.",
+        "marks": 1
+      },
+      {
+        "question_id": "2018-A-9",
+        "text": "Which of the following is an application layer service?",
+        "marks": 1
+      },
+      {
+        "question_id": "2018-A-10",
+        "text": "When a host knows its IP address but not its physical address, it can use ______.",
+        "marks": 1
+      },
+      {
+        "question_id": "2018-A-11",
+        "text": "Segmentation is done in the ______ layer.",
+        "marks": 1
+      },
+      {
+        "question_id": "2018-A-12",
+        "text": "Which class of IP address is reserved for multicast communication?",
+        "marks": 1
+      }
+    ],
+    "B": [
+      {
+        "question_id": "2018-B-1",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Compare and contrast between OSI and TCP/IP layered models."
+          }
+        ]
+      },
+      {
+        "question_id": "2018-B-2",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Differentiate between CSMA/CD and CSMA/CA."
+          }
+        ]
+      },
+      {
+        "question_id": "2018-B-3",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Generate the CRC code for the data word 1010011110 using divisor 1011."
+          }
+        ]
+      },
+      {
+        "question_id": "2018-B-4",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "What is the purpose of the TTL (Time To Live) field in the IP header?"
+          },
+          {
+            "label": "b",
+            "text": "If the IP header is 28 bytes long, what is the value of the HLEN field (in binary)?"
+          },
+          {
+            "label": "c",
+            "text": "Write one advantage of ICMP over IPv4."
+          }
+        ]
+      },
+      {
+        "question_id": "2018-B-5",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Why is a Medium Access Control technique required?"
+          },
+          {
+            "label": "b",
+            "text": "What are bit stuffing and character stuffing?"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "question_id": "2018-C-1",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Derive the expression for the efficiency of Pure ALOHA."
+          },
+          {
+            "label": "b",
+            "text": "Compare the performance of Pure ALOHA and Slotted ALOHA."
+          },
+          {
+            "label": "c",
+            "text": "What is the minimum window size required for Selective Repeat ARQ protocol and why?"
+          },
+          {
+            "label": "d",
+            "text": "What is polling?"
+          },
+          {
+            "label": "e",
+            "text": "How does CSMA/CD differ from CSMA/CA?"
+          }
+        ]
+      },
+      {
+        "question_id": "2018-C-2",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "How does Go-Back-N ARQ differ from Selective Repeat ARQ?"
+          },
+          {
+            "label": "b",
+            "text": "A computer is using the following sequence numbers: 0, 1, 2, 3, 4, 5, 6, 7, 0, 1, 2, 3, 4. What is the size of the window?"
+          },
+          {
+            "label": "c",
+            "text": "What does the number on a NAK frame mean for Selective Repeat ARQ? Give one example."
+          },
+          {
+            "label": "d",
+            "text": "Apply CRC algorithm to determine the checksum and transmitted frame for data 11010111 using generator polynomial $x^3 + x^2 + 1$."
+          }
+        ]
+      },
+      {
+        "question_id": "2018-C-3",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "A Class B network has a subnet mask 255.255.240.0. What is the number of hosts per subnet?"
+          },
+          {
+            "label": "b",
+            "text": "If the IP address assigned is 132.128.0.0, design subnet addresses for 9 subnets."
+          },
+          {
+            "label": "c",
+            "text": "In CIDR, prefix length can be of any size unlike classful addressing. What is the use of this feature?"
+          }
+        ]
+      },
+      {
+        "question_id": "2018-C-4",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "What is congestion?"
+          },
+          {
+            "label": "b",
+            "text": "Why does congestion occur?"
+          },
+          {
+            "label": "c",
+            "text": "Explain Leaky Bucket algorithm for congestion control."
+          },
+          {
+            "label": "d",
+            "text": "State the basic difference between TCP and UDP."
+          },
+          {
+            "label": "e",
+            "text": "Compare IPv4 and IPv6."
+          }
+        ]
+      },
+      {
+        "question_id": "2018-C-5",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "IP Datagram"
+          },
+          {
+            "label": "b",
+            "text": "Virtual Circuit Switching"
+          },
+          {
+            "label": "c",
+            "text": "LAN Topologies"
+          },
+          {
+            "label": "d",
+            "text": "IP Addressing"
+          }
+        ]
+      }
+    ]
+  }
+}

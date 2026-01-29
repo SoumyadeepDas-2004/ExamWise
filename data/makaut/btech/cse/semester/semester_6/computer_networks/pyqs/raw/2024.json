@@ -1,0 +1,212 @@
+{
+  "university": "MAKAUT",
+  "programme": "B.Tech CSE",
+  "semester": 6,
+  "subject": "Computer Networks",
+  "subject_code": "PCC-CS602",
+  "year": 2024,
+  "groups": {
+    "A": [
+      {
+        "question_id": "2024-A-1",
+        "text": "What is DNS in computer network?",
+        "marks": 1
+      },
+      {
+        "question_id": "2024-A-2",
+        "text": "Which multiplexing technique shifts each signal to a different carrier frequency?",
+        "marks": 1
+      },
+      {
+        "question_id": "2024-A-3",
+        "text": "What is the Hamming distance between two equal codewords?",
+        "marks": 1
+      },
+      {
+        "question_id": "2024-A-4",
+        "text": "What are autonomous systems in computer networks?",
+        "marks": 1
+      },
+      {
+        "question_id": "2024-A-5",
+        "text": "TCP assigns a sequence number to each segment that is being sent. The sequence number for each segment is the number of the ______ byte carried in that segment.",
+        "marks": 1
+      },
+      {
+        "question_id": "2024-A-6",
+        "text": "What are the transmission modes in FTP?",
+        "marks": 1
+      },
+      {
+        "question_id": "2024-A-7",
+        "text": "In synchronous TDM, for n signal sources of the same data rate, what will be the number of slots in each frame?",
+        "marks": 1
+      },
+      {
+        "question_id": "2024-A-8",
+        "text": "In bit stuffing, when is an extra 0 bit stuffed to the data section of the frame?",
+        "marks": 1
+      },
+      {
+        "question_id": "2024-A-9",
+        "text": "What is the number of bits required for IPv4 addresses when expressed in binary?",
+        "marks": 1
+      },
+      {
+        "question_id": "2024-A-10",
+        "text": "In the ______ bucket algorithm, bursty chunks are stored in a bucket and sent out at an average rate.",
+        "marks": 1
+      },
+      {
+        "question_id": "2024-A-11",
+        "text": "Why is PGP needed?",
+        "marks": 1
+      },
+      {
+        "question_id": "2024-A-12",
+        "text": "The point where the secure internal network and untrusted external network meet and a firewall is installed is known as ______.",
+        "marks": 1
+      }
+    ],
+    "B": [
+      {
+        "question_id": "2024-B-1",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "How does FTP work?"
+          }
+        ]
+      },
+      {
+        "question_id": "2024-B-2",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Describe the functions of session layer of the OSI reference model."
+          }
+        ]
+      },
+      {
+        "question_id": "2024-B-3",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "What is piggybacking? Discuss its advantages."
+          }
+        ]
+      },
+      {
+        "question_id": "2024-B-4",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "What is the first address of a block of classless addresses if one of the addresses is 12.2.2.76/27?"
+          }
+        ]
+      },
+      {
+        "question_id": "2024-B-5",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Suppose that the UDP receiver computes the Internet checksum for the received UDP segment and finds that it matches the value carried in the checksum field. Can the receiver be absolutely sure that no bit errors have occurred? Explain. Would things be different with TCP?"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "question_id": "2024-C-1",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "What are the functions of MAC sublayer? (4)"
+          },
+          {
+            "label": "b",
+            "text": "Discuss the working principle of Pure ALOHA and Slotted ALOHA. What is the vulnerable time in Pure and Slotted ALOHA? (3+2)"
+          },
+          {
+            "label": "c",
+            "text": "With diagram, explain Go-Back-N protocol. (6)"
+          }
+        ]
+      },
+      {
+        "question_id": "2024-C-2",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "What do you mean by private IP address? Why is it needed? (5)"
+          },
+          {
+            "label": "b",
+            "text": "Explain the DHCP state transition diagram. (6)"
+          },
+          {
+            "label": "c",
+            "text": "A block of 16 addresses is granted to a small organization. If one of the addresses is 205.16.37.39/28, what are the first and last addresses in the block? (4)"
+          }
+        ]
+      },
+      {
+        "question_id": "2024-C-3",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "With diagram, explain three-way handshaking in TCP. (6)"
+          },
+          {
+            "label": "b",
+            "text": "What is the importance of port number? Consider a TCP connection between Host A and Host B. If TCP segments travelling from Host A to Host B have source port number x and destination port number y, what are the source and destination port numbers for the segments travelling from Host B to Host A? (2+1)"
+          },
+          {
+            "label": "c",
+            "text": "Explain briefly how the leaky-bucket and token-bucket algorithms work. How can these two algorithms be combined to get optimized quality of service? (4+2)"
+          }
+        ]
+      },
+      {
+        "question_id": "2024-C-4",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "How does a packet filter firewall work? (7)"
+          },
+          {
+            "label": "b",
+            "text": "With a block diagram, explain symmetric key encryption. (8)"
+          }
+        ]
+      },
+      {
+        "question_id": "2024-C-5",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Explain the two-node instability problem in distance vector routing. (5)"
+          },
+          {
+            "label": "b",
+            "text": "Discuss possible solutions of the two-node instability problem in distance vector routing. (5)"
+          },
+          {
+            "label": "c",
+            "text": "Assume a packet has to visit two routers during transmission from source to destination. Determine how many times the packet has to visit the network layer and the data link layer. (5)"
+          }
+        ]
+      }
+    ]
+  }
+}

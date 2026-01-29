@@ -1,0 +1,230 @@
+{
+  "university": "MAKAUT",
+  "programme": "B.Tech CSE",
+  "semester": 6,
+  "subject": "Computer Networks",
+  "subject_code": "PCC-CS602",
+  "year": 2017,
+  "groups": {
+    "A": [
+      {
+        "question_id": "2017-A-1",
+        "text": "In an optical fibre, the inner core is ______ the cladding.",
+        "marks": 1
+      },
+      {
+        "question_id": "2017-A-2",
+        "text": "In the string 219.46.123.107, what is the network address of the host?",
+        "marks": 1
+      },
+      {
+        "question_id": "2017-A-3",
+        "text": "The two parameters used for measuring the performance of a network are ______.",
+        "marks": 1
+      },
+      {
+        "question_id": "2017-A-4",
+        "text": "Sliding window protocol is used for ______.",
+        "marks": 1
+      },
+      {
+        "question_id": "2017-A-5",
+        "text": "Which of the following protocols is a network layer protocol?",
+        "marks": 1
+      },
+      {
+        "question_id": "2017-A-6",
+        "text": "The subnet mask 255.255.255.192 extends the network portion to ______ bits.",
+        "marks": 1
+      },
+      {
+        "question_id": "2017-A-7",
+        "text": "A bridge has access to the ______ address of a station on the same network.",
+        "marks": 1
+      },
+      {
+        "question_id": "2017-A-8",
+        "text": "Hamming code is a method of ______.",
+        "marks": 1
+      },
+      {
+        "question_id": "2017-A-9",
+        "text": "Connection establishment in TCP involves a ______-way handshake.",
+        "marks": 1
+      },
+      {
+        "question_id": "2017-A-10",
+        "text": "Which of the following is an inter-domain routing protocol?",
+        "marks": 1
+      }
+    ],
+    "B": [
+      {
+        "question_id": "2017-B-1",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Compare Mesh topology and Star topology."
+          }
+        ]
+      },
+      {
+        "question_id": "2017-B-2",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Explain ALOHA and Slotted ALOHA. Compare between them."
+          }
+        ]
+      },
+      {
+        "question_id": "2017-B-3",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Explain Distance Vector Routing with an example."
+          }
+        ]
+      },
+      {
+        "question_id": "2017-B-4",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Compare Leaky Bucket algorithm with Token Bucket algorithm."
+          }
+        ]
+      },
+      {
+        "question_id": "2017-B-5",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Why do we need a DNS system? What is inverse domain?"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "question_id": "2017-C-1",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Find NRZ-I, Manchester, and Differential Manchester encoding for the binary data 111001000."
+          },
+          {
+            "label": "b",
+            "text": "What sampling rate is required for a signal with bandwidth of 10,000 Hz (2000 Hz to 12,000 Hz)?"
+          },
+          {
+            "label": "c",
+            "text": "State the advantages of FM over AM."
+          },
+          {
+            "label": "d",
+            "text": "What is transmission impairment? Discuss various types of transmission impairments."
+          }
+        ]
+      },
+      {
+        "question_id": "2017-C-2",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "How does Selective Repeat ARQ work for a lost frame?"
+          },
+          {
+            "label": "b",
+            "text": "In Go-Back-N ARQ, show why the window size should be less than $2^m$."
+          },
+          {
+            "label": "c",
+            "text": "Apply CRC algorithm to determine the transmitted frame for 10101000 using generator polynomial $x^3 + x + 1$."
+          },
+          {
+            "label": "d",
+            "text": "Compare bit stuffing with byte stuffing using an example."
+          }
+        ]
+      },
+      {
+        "question_id": "2017-C-3",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Describe the fields of an IP datagram."
+          },
+          {
+            "label": "b",
+            "text": "An IP network 192.168.130.0 uses subnet mask 255.255.255.224. Determine: number of subnets, number of hosts per subnet, subnet of the following hosts: 192.168.130.10, 192.168.130.222, 192.168.130.93, 192.168.130.250"
+          },
+          {
+            "label": "c",
+            "text": "Apply Dijkstra’s algorithm to find the shortest path from node 4 to node 6."
+          }
+        ]
+      },
+      {
+        "question_id": "2017-C-4",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Compare TCP and UDP."
+          },
+          {
+            "label": "b",
+            "text": "Describe Quality of Service (QoS)."
+          },
+          {
+            "label": "c",
+            "text": "Discuss closed-loop congestion control methods."
+          },
+          {
+            "label": "d",
+            "text": "Compare circuit switching and packet switching."
+          }
+        ]
+      },
+      {
+        "question_id": "2017-C-5",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "DQDB"
+          },
+          {
+            "label": "b",
+            "text": "FTP"
+          },
+          {
+            "label": "c",
+            "text": "Cryptography"
+          },
+          {
+            "label": "d",
+            "text": "DNS"
+          },
+          {
+            "label": "e",
+            "text": "ICMP"
+          },
+          {
+            "label": "f",
+            "text": "HTTP"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "university": "MAKAUT",
+  "programme": "B.Tech CSE",
+  "semester": 6,
+  "subject": "Computer Networks",
+  "subject_code": "PCC-CS602",
+  "year": 2015,
+
+  "groups": {
+    "A": [
+      {
+        "question_id": "2015-A-1",
+        "text": "Remote login is a function performed by the ______ layer.",
+        "marks": 1
+      },
+      {
+        "question_id": "2015-A-2",
+        "text": "Error control activity is performed by the ______ layer.",
+        "marks": 1
+      },
+      {
+        "question_id": "2015-A-3",
+        "text": "Which transmission is highly susceptible to noise interference?",
+        "marks": 1
+      },
+      {
+        "question_id": "2015-A-4",
+        "text": "Pick the odd one out: 2D Parity Check, CRC, Hamming Code, Checksum.",
+        "marks": 1
+      },
+      {
+        "question_id": "2015-A-5",
+        "text": "HDLC is a ______ protocol.",
+        "marks": 1
+      },
+      {
+        "question_id": "2015-A-6",
+        "text": "Token passing is a technique applied in the ______ layer.",
+        "marks": 1
+      },
+      {
+        "question_id": "2015-A-7",
+        "text": "10Base-FL is a version of ______.",
+        "marks": 1
+      },
+      {
+        "question_id": "2015-A-8",
+        "text": "IPv6 address has a length of ______ bits.",
+        "marks": 1
+      },
+      {
+        "question_id": "2015-A-9",
+        "text": "The protocol that maps a physical (MAC) address to the corresponding logical address is ______.",
+        "marks": 1
+      },
+      {
+        "question_id": "2015-A-10",
+        "text": "Which protocol is based on the concept of Link State Routing?",
+        "marks": 1
+      },
+      {
+        "question_id": "2015-A-11",
+        "text": "Which of the following techniques improve Quality of Service?",
+        "marks": 1
+      },
+      {
+        "question_id": "2015-A-12",
+        "text": "A ______ certifies the binding between a public key and its owner.",
+        "marks": 1
+      }
+    ],
+
+    "B": [
+      {
+        "question_id": "2015-B-1",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "A signal has four data levels with a pulse duration of 1 ms. Calculate the pulse rate and bit rate."
+          },
+          {
+            "label": "b",
+            "text": "What is line coding? For the signal 01001110, draw NRZ-L and NRZ-I patterns."
+          }
+        ]
+      },
+      {
+        "question_id": "2015-B-2",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "We want to digitize human voice. What is the bit rate assuming 8 bits per sample?"
+          },
+          {
+            "label": "b",
+            "text": "Discuss various transmission impairments."
+          }
+        ]
+      },
+      {
+        "question_id": "2015-B-3",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "What is inverse TDM?"
+          },
+          {
+            "label": "b",
+            "text": "Discuss data transparency and bit stuffing in HDLC."
+          }
+        ]
+      },
+      {
+        "question_id": "2015-B-4",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "64 customers need 256 addresses each."
+          },
+          {
+            "label": "b",
+            "text": "128 customers need 128 addresses each."
+          },
+          {
+            "label": "c",
+            "text": "128 customers need 64 addresses each. Design the sub-blocks and give slash notation for each."
+          }
+        ]
+      },
+      {
+        "question_id": "2015-B-5",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Differentiate between symmetric and asymmetric key cryptography."
+          },
+          {
+            "label": "b",
+            "text": "What do you mean by Key Distribution Centre (KDC)?"
+          }
+        ]
+      }
+    ],
+
+    "C": [
+      {
+        "question_id": "2015-C-1",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "What is Forward Error Correction (FEC)? Discuss in detail."
+          },
+          {
+            "label": "b",
+            "text": "The code 11110101101 was received. Using Hamming code, determine the original transmitted code."
+          },
+          {
+            "label": "c",
+            "text": "In Stop-and-Wait ARQ, explain lost or damaged frame, lost acknowledgement and delayed acknowledgement with diagrams."
+          }
+        ]
+      },
+      {
+        "question_id": "2015-C-2",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Discuss the connection establishment procedure performed by LCP using various LCP packets."
+          },
+          {
+            "label": "b",
+            "text": "Explain the state transition diagram of PPP."
+          },
+          {
+            "label": "c",
+            "text": "Discuss the authentication mechanism of CHAP."
+          },
+          {
+            "label": "d",
+            "text": "Explain sliding window concept with an example. How does HDLC perform flow control?"
+          }
+        ]
+      },
+      {
+        "question_id": "2015-C-3",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Discuss the multiple access mechanism of Pure ALOHA. Why does Slotted ALOHA double the efficiency?"
+          },
+          {
+            "label": "b",
+            "text": "Discuss persistence strategies of CSMA."
+          },
+          {
+            "label": "c",
+            "text": "Explain Distance Vector Routing with a suitable example."
+          }
+        ]
+      },
+      {
+        "question_id": "2015-C-4",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "What is CIDR notation? State its significance in classless addressing."
+          },
+          {
+            "label": "b",
+            "text": "What is a private address? What is NAT?"
+          },
+          {
+            "label": "c",
+            "text": "What are flow characteristics? Explain in detail. What is admission control?"
+          }
+        ]
+      },
+      {
+        "question_id": "2015-C-5",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "FDM"
+          },
+          {
+            "label": "b",
+            "text": "Twisted Pair Cables"
+          },
+          {
+            "label": "c",
+            "text": "Traditional Ethernet"
+          },
+          {
+            "label": "d",
+            "text": "CDMA"
+          },
+          {
+            "label": "e",
+            "text": "Firewall"
+          }
+        ]
+      }
+    ]
+  }
+}

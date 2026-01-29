@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Databases & vector stores
+**/chroma_db/
+**/duckdb/
+*.duckdb
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.venv/
+env/

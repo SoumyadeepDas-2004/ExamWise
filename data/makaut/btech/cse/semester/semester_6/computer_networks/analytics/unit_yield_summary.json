@@ -1,0 +1,112 @@
+{
+  "Unit 1": {
+    "unit_title": "Data Communication & Physical Layer",
+    "high_yield": [],
+    "medium_yield": [
+      "bluetooth",
+      "nrz-l",
+      "transmission impairments"
+    ],
+    "low_yield": [
+      "coaxial cable",
+      "inverse tdm",
+      "noise",
+      "nrz-i",
+      "protocols and standards",
+      "qam",
+      "tcp/ip model",
+      "twisted pair cable"
+    ]
+  },
+  "Unit 2": {
+    "unit_title": "Data Link Layer & Medium Access Sublayer",
+    "high_yield": [
+      "bit stuffing",
+      "csma",
+      "datagram",
+      "hamming code",
+      "pure aloha",
+      "window size"
+    ],
+    "medium_yield": [
+      "checksum",
+      "circuit switching",
+      "ethernet",
+      "go-back-n arq",
+      "hdlc",
+      "selective repeat arq",
+      "stop-and-wait protocol"
+    ],
+    "low_yield": [
+      "error correction",
+      "hamming distance",
+      "piggybacking",
+      "polling",
+      "sliding window protocol",
+      "slotted aloha",
+      "stop-and-wait arq",
+      "token passing"
+    ]
+  },
+  "Unit 3": {
+    "unit_title": "Network Layer",
+    "high_yield": [
+      "distance vector routing",
+      "ipv4"
+    ],
+    "medium_yield": [
+      "cidr",
+      "classful addressing",
+      "leaky bucket algorithm",
+      "rip",
+      "static routing",
+      "subnetting",
+      "token bucket algorithm"
+    ],
+    "low_yield": [
+      "arp",
+      "autonomous systems",
+      "count-to-infinity problem",
+      "dhcp",
+      "dijkstra\u2019s algorithm",
+      "icmp",
+      "ipv6",
+      "link state routing",
+      "nat",
+      "ospf",
+      "vpn"
+    ]
+  },
+  "Unit 5": {
+    "unit_title": "Application Layer & Network Security",
+    "high_yield": [],
+    "medium_yield": [
+      "smtp"
+    ],
+    "low_yield": [
+      "authentication",
+      "digital signature",
+      "http",
+      "telnet"
+    ]
+  },
+  "Unit 6": {
+    "unit_title": "Advanced / Supplementary Topics",
+    "high_yield": [],
+    "medium_yield": [
+      "cdma"
+    ],
+    "low_yield": [
+      "dqdb"
+    ]
+  },
+  "Unit 4": {
+    "unit_title": "Transport Layer",
+    "high_yield": [],
+    "medium_yield": [
+      "congestion control",
+      "tcp header"
+    ],
+    "low_yield": []
+  }
+}

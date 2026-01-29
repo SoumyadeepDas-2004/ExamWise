@@ -1,0 +1,262 @@
+{
+  "university": "MAKAUT",
+  "programme": "B.Tech CSE",
+  "semester": 6,
+  "subject": "Computer Networks",
+  "subject_code": "PCC-CS602",
+  "year": 2019,
+  "groups": {
+    "A": [
+      {
+        "question_id": "2019-A-1",
+        "text": "The data link layer provides ______ delivery.",
+        "marks": 1
+      },
+      {
+        "question_id": "2019-A-2",
+        "text": "Using n nodes with duplex mode transmission, the number of links needed for mesh topology is ______.",
+        "marks": 1
+      },
+      {
+        "question_id": "2019-A-3",
+        "text": "Communication between computer and keyboard involves ______ mode.",
+        "marks": 1
+      },
+      {
+        "question_id": "2019-A-4",
+        "text": "The Hamming distance between 10001001 and 10110001 is ______.",
+        "marks": 1
+      },
+      {
+        "question_id": "2019-A-5",
+        "text": "A signal with bit rate 8000 bps and baud rate 1000 baud has ______ bits per signal element.",
+        "marks": 1
+      },
+      {
+        "question_id": "2019-A-6",
+        "text": "The bandwidth of a signal is 5 kHz and the lowest frequency is 52 kHz. What is the highest frequency?",
+        "marks": 1
+      },
+      {
+        "question_id": "2019-A-7",
+        "text": "Which topology requires a multipoint connection?",
+        "marks": 1
+      },
+      {
+        "question_id": "2019-A-8",
+        "text": "Maximum size of the data portion of the IPv4 datagram is ______.",
+        "marks": 1
+      },
+      {
+        "question_id": "2019-A-9",
+        "text": "An IPv4 address in Class B category is ______.",
+        "marks": 1
+      },
+      {
+        "question_id": "2019-A-10",
+        "text": "A telephone network is an example of a ______ network.",
+        "marks": 1
+      },
+      {
+        "question_id": "2019-A-11",
+        "text": "In which ARQ protocol, if a NAK is received, only the damaged or lost frame is retransmitted?",
+        "marks": 1
+      },
+      {
+        "question_id": "2019-A-12",
+        "text": "A subnet mask in Class A has fourteen 1s. How many subnets does it define?",
+        "marks": 1
+      }
+    ],
+    "B": [
+      {
+        "question_id": "2019-B-1",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "What is peer-to-peer process? What is the difference between OSI model and TCP/IP model?"
+          }
+        ]
+      },
+      {
+        "question_id": "2019-B-2",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "A channel has 1 MHz bandwidth and SNR = 63. What is the appropriate bit rate and signal level?"
+          }
+        ]
+      },
+      {
+        "question_id": "2019-B-3",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "What is the purpose of guard band? What is the advantage of controlled access over random access? How is CDMA superior to FDMA?"
+          }
+        ]
+      },
+      {
+        "question_id": "2019-B-4",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Given a 10-bit sequence 1010011110 and divisor 1011, find the CRC and check your answer."
+          }
+        ]
+      },
+      {
+        "question_id": "2019-B-5",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Compare piconet and scatternet in Bluetooth communication."
+          }
+        ]
+      },
+      {
+        "question_id": "2019-B-6",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "A router outside the organization receives a packet with destination address 190.240.7.91/16. Show how it finds the network address to route the packet."
+          }
+        ]
+      },
+      {
+        "question_id": "2019-B-7",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Explain how CSMA/CA answers the question: “What should be done if the medium is busy?”"
+          }
+        ]
+      },
+      {
+        "question_id": "2019-B-8",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "What are the maximum and minimum sizes of TCP header and why? What are SMTP and SNMP?"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "question_id": "2019-C-1",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Discuss protocols and standards in brief."
+          },
+          {
+            "label": "b",
+            "text": "Explain the advantages of layered network architecture."
+          },
+          {
+            "label": "c",
+            "text": "Compare OSI reference model and TCP/IP reference model with diagram."
+          },
+          {
+            "label": "d",
+            "text": "Derive a formula to find the number of crosspoints in a three-stage crossbar switch."
+          }
+        ]
+      },
+      {
+        "question_id": "2019-C-2",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Encode the bit sequence 01001110 using: (i) NRZ-L (ii) NRZ-I (iii) RZ (iv) Manchester (v) Differential Manchester"
+          },
+          {
+            "label": "b",
+            "text": "Prove that maximum window size in Selective Repeat ARQ is $2^{m-1}$."
+          },
+          {
+            "label": "c",
+            "text": "Mention advantages of QAM over ASK or PSK. Discuss 8-QAM constellation technique."
+          }
+        ]
+      },
+      {
+        "question_id": "2019-C-3",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Mention the significance of Time-To-Live field in IPv4 header."
+          },
+          {
+            "label": "b",
+            "text": "Calculate CRC remainder for Dividend: $x^9 + x^8 + x^6 + x^4 + x^3 + x + 1$ Generator: $x^4 + x + 1$"
+          },
+          {
+            "label": "c",
+            "text": "Compare Pure ALOHA and Slotted ALOHA in terms of efficiency."
+          },
+          {
+            "label": "d",
+            "text": "Ethernet MAC sublayer receives 1510 bytes of data. Can it be encapsulated in one frame? If not, calculate number and size of frames."
+          }
+        ]
+      },
+      {
+        "question_id": "2019-C-4",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Define IP address. Discuss different classes of IPv4 addresses with diagram."
+          },
+          {
+            "label": "b",
+            "text": "Compare IPv4 and IPv6 datagram headers."
+          },
+          {
+            "label": "c",
+            "text": "An organization is given 190.100.0.0/16. Divide addresses among three customer groups and find remaining addresses."
+          }
+        ]
+      },
+      {
+        "question_id": "2019-C-5",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "CHAP"
+          },
+          {
+            "label": "b",
+            "text": "FTP"
+          },
+          {
+            "label": "c",
+            "text": "SMTP"
+          },
+          {
+            "label": "d",
+            "text": "DNS"
+          },
+          {
+            "label": "e",
+            "text": "Bluetooth"
+          }
+        ]
+      }
+    ]
+  }
+}

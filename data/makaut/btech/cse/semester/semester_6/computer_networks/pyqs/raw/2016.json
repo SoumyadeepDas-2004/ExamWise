@@ -1,0 +1,242 @@
+{
+  "university": "MAKAUT",
+  "programme": "B.Tech CSE",
+  "semester": 6,
+  "subject": "Computer Networks",
+  "subject_code": "PCC-CS602",
+  "year": 2016,
+  "groups": {
+    "A": [
+      {
+        "question_id": "2016-A-1",
+        "text": "Which layer converts bits into electromagnetic signals?",
+        "marks": 1
+      },
+      {
+        "question_id": "2016-A-2",
+        "text": "Which of the following transmission media is not readily suitable for CSMA operation?",
+        "marks": 1
+      },
+      {
+        "question_id": "2016-A-3",
+        "text": "Phase transition for each bit is used in ______ encoding.",
+        "marks": 1
+      },
+      {
+        "question_id": "2016-A-4",
+        "text": "The subnet mask 255.255.255.192 extends the network portion to ______ bits.",
+        "marks": 1
+      },
+      {
+        "question_id": "2016-A-5",
+        "text": "Router solicitation and advertisement messages are used by ______.",
+        "marks": 1
+      },
+      {
+        "question_id": "2016-A-6",
+        "text": "If source uses IPv6 and destination uses IPv4, which type of address is used?",
+        "marks": 1
+      },
+      {
+        "question_id": "2016-A-7",
+        "text": "Which of the following is a valid host for network 192.168.4.32/28?",
+        "marks": 1
+      },
+      {
+        "question_id": "2016-A-8",
+        "text": "Exponential increase is used in ______.",
+        "marks": 1
+      },
+      {
+        "question_id": "2016-A-9",
+        "text": "UDP is a ______ protocol.",
+        "marks": 1
+      },
+      {
+        "question_id": "2016-A-10",
+        "text": "Port number indicates a ______.",
+        "marks": 1
+      }
+    ],
+    "B": [
+      {
+        "question_id": "2016-B-1",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "A system uses Stop-and-Wait protocol with propagation delay 20 ms. Frame size = 160 bits, bandwidth = 4 kbps. Calculate channel utilization (efficiency)."
+          },
+          {
+            "label": "b",
+            "text": "What are bit stuffing and byte stuffing?"
+          }
+        ]
+      },
+      {
+        "question_id": "2016-B-2",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Apply CRC algorithm to determine the checksum and transmitted frame for bit stream 11010111 using generator polynomial $x^3 + x^2 + 1$."
+          }
+        ]
+      },
+      {
+        "question_id": "2016-B-3",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Differentiate between CSMA/CD and CSMA/CA."
+          }
+        ]
+      },
+      {
+        "question_id": "2016-B-4",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "What do you mean by subnet masking?"
+          },
+          {
+            "label": "b",
+            "text": "Explain how subnet masking can be achieved with an example."
+          }
+        ]
+      },
+      {
+        "question_id": "2016-B-5",
+        "marks": 5,
+        "parts": [
+          {
+            "label": "a",
+            "text": "What is classful addressing?"
+          },
+          {
+            "label": "b",
+            "text": "What are the advantages of classless addressing over classful addressing?"
+          },
+          {
+            "label": "c",
+            "text": "What do you mean by NetID and HostID?"
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "question_id": "2016-C-1",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "What are bit rate and baud rate? An analog signal carries 4 bits per signal unit. If 1000 signal units per second are sent, find the baud rate and bit rate."
+          },
+          {
+            "label": "b",
+            "text": "A channel has data rate 4 kbps and propagation delay 20 ms. For what range of frame size does Stop-and-Wait achieve at least 50% efficiency?"
+          }
+        ]
+      },
+      {
+        "question_id": "2016-C-2",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "A 10-bit data block 0111010111 is sent using Hamming code. Show how the receiver corrects an error in the 6th bit from right."
+          },
+          {
+            "label": "b",
+            "text": "Differentiate between connection-oriented and connectionless services at network layer."
+          },
+          {
+            "label": "c",
+            "text": "Differentiate between Pure ALOHA and Slotted ALOHA."
+          },
+          {
+            "label": "d",
+            "text": "Explain Leaky Bucket and Token Bucket algorithms."
+          }
+        ]
+      },
+      {
+        "question_id": "2016-C-3",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Why is dynamic routing preferred over static routing in continuously changing networks? What are LLC and MAC?"
+          },
+          {
+            "label": "b",
+            "text": "Why is the window size of Go-Back-N protocol equal to $2^n - 1$?"
+          },
+          {
+            "label": "c",
+            "text": "What type of error is not detected by CRC?"
+          },
+          {
+            "label": "d",
+            "text": "Prove that $2^r \\ge m + r + 1$, where m is data bits and r is redundancy bits."
+          }
+        ]
+      },
+      {
+        "question_id": "2016-C-4",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "Write the advantages of fibre-optic cable over twisted pair and coaxial cable."
+          },
+          {
+            "label": "b",
+            "text": "State advantages of IPv6 over IPv4."
+          },
+          {
+            "label": "c",
+            "text": "A Class B network has subnet mask 255.255.240.0. What is the maximum number of hosts per subnet?"
+          },
+          {
+            "label": "d",
+            "text": "Write a short note on Cryptography."
+          },
+          {
+            "label": "e",
+            "text": "An ISP has 1024 addresses for 1024 customers. Does it need subnetting? Justify."
+          }
+        ]
+      },
+      {
+        "question_id": "2016-C-5",
+        "marks": 15,
+        "parts": [
+          {
+            "label": "a",
+            "text": "RIP"
+          },
+          {
+            "label": "b",
+            "text": "OSPF"
+          },
+          {
+            "label": "c",
+            "text": "BGP"
+          },
+          {
+            "label": "d",
+            "text": "Digital Signature"
+          },
+          {
+            "label": "e",
+            "text": "ARP packet format"
+          }
+        ]
+      }
+    ]
+  }
+}

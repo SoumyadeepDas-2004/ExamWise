@@ -1,0 +1,345 @@
+{
+  "university": "MAKAUT",
+  "programme": "B.Tech CSE",
+  "semester": 6,
+  "subject": "Computer Networks",
+  "subject_code": "PCC-CS602",
+  "type": "syllabus",
+  "units": [
+    {
+      "unit": 1,
+      "title": "Data Communication & Physical Layer",
+      "hours": 9,
+      "topics": [
+        {
+          "category": "Introduction to Networking",
+          "items": [
+            "Data communication components",
+            "Representation of data and data flow",
+            "Computer networks and network connections",
+            "Network topologies",
+            "Protocols and standards",
+            "Network models",
+            "ISO-OSI reference model",
+            "TCP/IP model",
+            "Comparison of OSI and TCP/IP models",
+            "Layered network architecture and advantages"
+          ]
+        },
+        {
+          "category": "Transmission Basics",
+          "items": [
+            "Baseband transmission",
+            "Broadband transmission",
+            "Transmission impairments",
+            "Attenuation",
+            "Noise",
+            "Distortion"
+          ]
+        },
+        {
+          "category": "Transmission Media",
+          "items": [
+            "Guided media",
+            "Twisted pair cable",
+            "Coaxial cable",
+            "Fiber optic cable",
+            "Wireless media",
+            "Microwave",
+            "Satellite",
+            "WiMAX",
+            "Bluetooth"
+          ]
+        },
+        {
+          "category": "LAN Technologies",
+          "items": [
+            "Wired LAN",
+            "Wireless LAN",
+            "Connecting LANs",
+            "Virtual LAN (VLAN)"
+          ]
+        },
+        {
+          "category": "Bandwidth Utilization & Spread Spectrum",
+          "items": [
+            "Multiplexing techniques",
+            "Frequency Division Multiplexing (FDM)",
+            "Time Division Multiplexing (TDM)",
+            "Inverse TDM",
+            "Wavelength Division Multiplexing (WDM)",
+            "Guard bands",
+            "Spread spectrum concepts",
+            "Frequency Hopping Spread Spectrum (FHSS)",
+            "Direct Sequence Spread Spectrum (DSSS)"
+          ]
+        },
+        {
+          "category": "Physical Layer Concepts",
+          "items": [
+            "Line coding and signaling",
+            "Bit rate vs baud rate",
+            "Signaling rate and pulse rate",
+            "Encoding techniques",
+            "NRZ-L",
+            "NRZ-I",
+            "RZ",
+            "Manchester encoding",
+            "Differential Manchester encoding",
+            "QPSK",
+            "QAM",
+            "FSK",
+            "Channel capacity",
+            "Nyquist theorem",
+            "Shannon’s theorem",
+            "Sampling and bandwidth",
+            "Nyquist sampling rate",
+            "Bandwidth calculation"
+          ]
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "title": "Data Link Layer & Medium Access Sublayer",
+      "hours": 8,
+      "topics": [
+        {
+          "category": "Framing & Error Handling",
+          "items": [
+            "Framing concepts",
+            "Bit stuffing",
+            "Byte stuffing",
+            "Parity check (1D, 2D)",
+            "Checksum",
+            "Cyclic Redundancy Check (CRC)",
+            "Error correction",
+            "Hamming code",
+            "Hamming distance",
+            "Single-bit errors",
+            "Burst errors"
+          ]
+        },
+        {
+          "category": "Flow & Error Control",
+          "items": [
+            "Stop-and-Wait protocol",
+            "Sliding Window protocol",
+            "Stop-and-Wait ARQ",
+            "Acknowledgement numbering",
+            "Efficiency calculation",
+            "Go-Back-N ARQ",
+            "Window size",
+            "NAK handling",
+            "Channel utilization",
+            "Selective Repeat ARQ",
+            "Sender window",
+            "Receiver window",
+            "Piggybacking"
+          ]
+        },
+        {
+          "category": "Medium Access Control (MAC)",
+          "items": [
+            "Random access protocols",
+            "Pure ALOHA",
+            "Slotted ALOHA",
+            "CSMA",
+            "CSMA/CD",
+            "CSMA/CA",
+            "Controlled access protocols",
+            "Polling",
+            "Token passing",
+            "Ethernet",
+            "IEEE 802.3 frame format",
+            "Minimum frame length",
+            "HDLC",
+            "Bit-oriented protocol",
+            "Data transparency"
+          ]
+        },
+        {
+          "category": "Switching",
+          "items": [
+            "Circuit switching",
+            "Packet switching",
+            "Datagram",
+            "Virtual circuit",
+            "Message switching"
+          ]
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "title": "Network Layer",
+      "hours": 14,
+      "topics": [
+        {
+          "category": "Addressing",
+          "items": [
+            "Logical (IP) addressing",
+            "Physical (MAC) addressing",
+            "IPv4",
+            "Classful addressing",
+            "Subnetting",
+            "Supernetting",
+            "CIDR",
+            "NAT",
+            "IPv6",
+            "IPv6 header format",
+            "Advantages of IPv6 over IPv4"
+          ]
+        },
+        {
+          "category": "Address Mapping Protocols",
+          "items": [
+            "ARP",
+            "RARP",
+            "BOOTP",
+            "DHCP"
+          ]
+        },
+        {
+          "category": "Routing",
+          "items": [
+            "Static routing",
+            "Dynamic routing",
+            "Distance Vector Routing",
+            "RIP",
+            "Count-to-Infinity problem",
+            "Split horizon",
+            "Link State Routing",
+            "OSPF",
+            "Dijkstra’s algorithm",
+            "Border Gateway Protocol (BGP)",
+            "Inter-AS routing",
+            "Intra-AS routing",
+            "Autonomous Systems"
+          ]
+        },
+        {
+          "category": "Packet Handling & IP Services",
+          "items": [
+            "Packet delivery",
+            "Packet forwarding",
+            "ICMP",
+            "TTL field",
+            "IP datagram format",
+            "VPN",
+            "VLAN",
+            "Firewalls"
+          ]
+        },
+        {
+          "category": "Congestion Control & QoS",
+          "items": [
+            "Quality of Service (QoS)",
+            "Leaky Bucket algorithm",
+            "Token Bucket algorithm"
+          ]
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "title": "Transport Layer",
+      "hours": 8,
+      "topics": [
+        {
+          "category": "Transport Layer Protocols",
+          "items": [
+            "Process-to-process communication",
+            "Transmission Control Protocol (TCP)",
+            "Connection-oriented service",
+            "TCP header",
+            "Three-way handshake",
+            "Congestion control",
+            "User Datagram Protocol (UDP)",
+            "Connectionless service",
+            "Datagram",
+            "Stream Control Transmission Protocol (SCTP)"
+          ]
+        },
+        {
+          "category": "Congestion Control",
+          "items": [
+            "TCP congestion avoidance",
+            "Slow Start",
+            "Additive Increase Multiplicative Decrease (AIMD)",
+            "Open-loop congestion control",
+            "Closed-loop congestion control"
+          ]
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "title": "Application Layer & Network Security",
+      "hours": 5,
+      "topics": [
+        {
+          "category": "Application Layer Protocols",
+          "items": [
+            "Domain Name System (DNS)",
+            "Recursive queries",
+            "Iterative queries",
+            "Dynamic DNS (DDNS)",
+            "HTTP",
+            "HTTPS",
+            "File Transfer Protocol (FTP)",
+            "TELNET",
+            "Electronic Mail",
+            "SMTP",
+            "POP3",
+            "IMAP",
+            "Simple Network Management Protocol (SNMP)",
+            "World Wide Web (WWW)"
+          ]
+        },
+        {
+          "category": "Network Security",
+          "items": [
+            "Cryptography basics",
+            "Symmetric encryption",
+            "Asymmetric encryption",
+            "RSA",
+            "Digital signature",
+            "Key management",
+            "Key Distribution Centre (KDC)",
+            "Key agreement",
+            "Key transport",
+            "Authentication",
+            "Integrity",
+            "Non-repudiation",
+            "Firewalls",
+            "Proxy servers"
+          ]
+        }
+      ]
+    },
+    {
+      "unit": 6,
+      "title": "Advanced / Supplementary Topics",
+      "hours": "Low–Medium Weight",
+      "topics": [
+        {
+          "category": "Advanced Topics",
+          "items": [
+            "Wireless networks",
+            "IEEE 802.11 (Wi-Fi)",
+            "Bluetooth",
+            "DQDB",
+            "FDDI",
+            "WAN technologies",
+            "ISDN",
+            "ATM",
+            "Frame Relay",
+            "CDMA",
+            "Intranet vs Internet"
+          ]
+        }
+      ]
+    }
+  ]
+}
