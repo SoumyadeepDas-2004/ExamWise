@@ -186,6 +186,8 @@ python pipelines/pipeline.py
 
 - **Analytical Database:** DuckDB  
   Used for fast, local analytical queries on derived exam statistics
+  
+- **Backend:** FastAPI  
 
 - **Version Control:** Git & GitHub
 
