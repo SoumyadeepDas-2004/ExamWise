@@ -76,19 +76,53 @@ Traditional exam preparation:
 ---
 
 ## 🏗️ High-Level Architecture
-Raw PYQs + Syllabus
-        ↓
-Normalization & Cleaning
-        ↓
-Topic & Unit Mapping
-        ↓
-Exam Analytics (DuckDB)
-        ↓
-Vector Store (ChromaDB)
-        ↓
-RAG Answer Engine (LLM)
+<img width="375" height="458" alt="image" src="https://github.com/user-attachments/assets/d88ba496-a998-49bd-a613-71319b438e56" />
 
+---
 
+## 🛠️ Tech Stack
+
+### Core
+- Python
+- JSON-based data pipelines
+
+### Data & Analytics
+- DuckDB
+- Strong schema validation
+
+### AI / NLP
+- Retrieval-Augmented Generation (RAG)
+- Embedding-based semantic search
+- Context-bounded LLM responses
+
+### Vector Store
+- ChromaDB
+
+---
+
+## 📂 Project Structure 
+
+<img width="772" height="344" alt="image" src="https://github.com/user-attachments/assets/d2b7f224-c768-4da0-9f91-0c4c9b81e4b9" />
+
+---
+
+## 📊 Example Outputs
+
+- Topic-wise frequency analysis
+- Unit-wise yield classification
+- Cleaned and structured PYQ datasets
+- Context-grounded AI-generated answers
+
+---
+
+## ▶️ How to Run (Developers)
+
+### ✅ Recommended (One-Command Pipeline)
+
+This project is designed to run as a **single end-to-end pipeline**.
+
+```bash
+python pipelines/pipeline.py
 
 
 
