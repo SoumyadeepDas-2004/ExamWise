@@ -178,7 +178,7 @@ python pipelines/pipeline.py
 
 - **Version Control:** Git & GitHub
 
-''' bash
+```bash
 User Query
    ↓
 Query Classifier
@@ -204,4 +204,4 @@ LLM Answer Generation
 (RAG, no hallucination)
    ↓
 Final Answer to User
-'''
+```
