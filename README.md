@@ -106,6 +106,36 @@ Traditional exam preparation:
 
 ---
 
+## Pipeline Architecture
+
+```bash
+User Query
+   ↓
+Query Classifier
+(intent: analytics / conceptual / factual)
+   ↓
+Query Cleaning & Normalization
+   ↓
+Embedding Generation (MiniLM-B6)
+   ↓
+Semantic Similarity Search
+(ChromaDB – existing vectors)
+   ↓
+Top-K Context Retrieval
+(PYQs + syllabus + notes)
+   ↓
+Context Validation
+(unit / subject / semester alignment)
+   ↓
+Prompt Builder
+(context-only constraint)
+   ↓
+LLM Answer Generation
+(RAG, no hallucination)
+   ↓
+Final Answer to User
+```
+
 ## 📊 Example Outputs
 
 - Topic-wise frequency analysis
@@ -155,8 +185,8 @@ python pipelines/pipeline.py
 - **Data Formats:** JSON  
   Raw PYQs, normalized datasets, syllabus index, analytics outputs
 
-- **LLM:** MiniLM-B6  
-  Used for embedding generation (not free-form text generation)
+- **Embedding Model:** MiniLM-B6  
+  Used exclusively for vector embedding generation (not text generation)
 
 - **Semantic Analysis:**  
   Rule-based + embedding-assisted semantic matching using syllabus topic index and alias maps
@@ -177,32 +207,3 @@ python pipelines/pipeline.py
   Used for fast, local analytical queries on derived exam statistics
 
 - **Version Control:** Git & GitHub
-
-```bash
-User Query
-   ↓
-Query Classifier
-(intent: analytics / conceptual / factual)
-   ↓
-Query Cleaning & Normalization
-   ↓
-Embedding Generation (MiniLM-B6)
-   ↓
-Semantic Similarity Search
-(ChromaDB – existing vectors)
-   ↓
-Top-K Context Retrieval
-(PYQs + syllabus + notes)
-   ↓
-Context Validation
-(unit / subject / semester alignment)
-   ↓
-Prompt Builder
-(context-only constraint)
-   ↓
-LLM Answer Generation
-(RAG, no hallucination)
-   ↓
-Final Answer to User
-```
-
