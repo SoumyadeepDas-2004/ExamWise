@@ -8,6 +8,14 @@
 
 **ExamWise** is an **end-to-end exam analytics and intelligent question analysis system** that transforms **previous year question papers (PYQs)** and **official syllabus data** into **actionable exam intelligence** using **data engineering, NLP, and LLM-based reasoning**.
 
+At present, the system is **fully implemented and validated for MAKAUT B.Tech (CSE) – 6th Semester – Computer Networks**, with deep, syllabus-aligned analytics for this subject.
+
+Due to the **high manual and engineering effort required to clean, normalize, and semantically align academic data**, the current scope is intentionally limited to a single subject.  
+The architecture, however, is **designed to scale horizontally** and will be extended in the future across:
+- multiple subjects  
+- different semesters  
+- additional departments and universities  
+
 It helps answer questions like:
 - Which topics are most frequently asked?
 - Which units are high-yield vs low-yield?
