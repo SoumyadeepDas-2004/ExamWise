@@ -136,6 +136,8 @@ LLM Answer Generation
 Final Answer to User
 ```
 
+---
+
 ## 📊 Example Outputs
 
 - Topic-wise frequency analysis
@@ -154,27 +156,6 @@ This project is designed to run as a **single end-to-end pipeline**.
 ```bash
 python pipelines/pipeline.py
 ```
----
-
-## ⚠️ Current Scope & Limitations (TL;DR)
-
-- **Currently implemented for:**  
-  **MAKAUT B.Tech (CSE) – 6th Semester – Computer Networks**
-
-- **Why limited to one subject?**  
-  Cleaning, normalizing, and semantically aligning academic data (PYQs + syllabus) requires **significant manual verification and engineering effort** to ensure correctness and avoid noisy or misleading analytics.
-
-- **Intentional design choice:**  
-  The scope is intentionally constrained to **validate data quality, pipeline correctness, and analytical accuracy** before scaling.
-
-- **Scalability roadmap:**  
-  The system architecture is **subject-agnostic and modular** and is designed to scale horizontally across:
-  - multiple subjects  
-  - different semesters  
-  - additional departments and universities  
-
-> **TL;DR:** One subject today for correctness and depth.  
-> Many subjects tomorrow without redesign.
 
 ---
 
@@ -207,3 +188,27 @@ python pipelines/pipeline.py
   Used for fast, local analytical queries on derived exam statistics
 
 - **Version Control:** Git & GitHub
+
+---
+
+## ⚠️ Current Scope & Limitations (TL;DR)
+
+- **Currently implemented for:**  
+  **MAKAUT B.Tech (CSE) – 6th Semester – Computer Networks**
+
+- **Why limited to one subject?**  
+  Cleaning, normalizing, and semantically aligning academic data (PYQs + syllabus) requires **significant manual verification and engineering effort** to ensure correctness and avoid noisy or misleading analytics.
+
+- **Intentional design choice:**  
+  The scope is intentionally constrained to **validate data quality, pipeline correctness, and analytical accuracy** before scaling.
+
+- **Scalability roadmap:**  
+  The system architecture is **subject-agnostic and modular** and is designed to scale horizontally across:
+  - multiple subjects  
+  - different semesters  
+  - additional departments and universities  
+
+> **TL;DR:** One subject today for correctness and depth.  
+> Many subjects tomorrow without redesign.
+
+---
