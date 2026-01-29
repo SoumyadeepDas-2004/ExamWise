@@ -216,5 +216,9 @@ python pipelines/pipeline.py
 ## 📸 Screenshots:
 <img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/b0d17944-f4a8-4b02-8375-06c6855ab681" />
 <img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/98202f3a-6003-4b13-ae3d-cceda3d8b45f" />
-![ExamWISE Clone_page-0001](https://github.com/user-attachments/assets/431b356c-22c6-460e-a7a4-5a78fdf44208)
+<img width="1919" height="745" alt="image" src="https://github.com/user-attachments/assets/4b46dd07-9483-472a-b8c4-e59cd5c0ec40" />
+<img width="1917" height="688" alt="image" src="https://github.com/user-attachments/assets/c3367067-7785-4c77-8541-8b437d89db11" />
+
+---
+
 
