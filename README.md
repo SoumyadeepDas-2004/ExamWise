@@ -76,7 +76,18 @@ Traditional exam preparation:
 ---
 
 ## 🏗️ High-Level Architecture
-<img width="357" height="429" alt="image" src="https://github.com/user-attachments/assets/f79931a7-10b3-40a5-9d7d-c6217f6faa57" />
+Raw PYQs + Syllabus
+        ↓
+Normalization & Cleaning
+        ↓
+Topic & Unit Mapping
+        ↓
+Exam Analytics (DuckDB)
+        ↓
+Vector Store (ChromaDB)
+        ↓
+RAG Answer Engine (LLM)
+
 
 
 
