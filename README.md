@@ -216,8 +216,10 @@ python pipelines/pipeline.py
 ## 📸 Screenshots:
 <img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/b0d17944-f4a8-4b02-8375-06c6855ab681" />
 <img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/98202f3a-6003-4b13-ae3d-cceda3d8b45f" />
-<img width="1919" height="745" alt="image" src="https://github.com/user-attachments/assets/4b46dd07-9483-472a-b8c4-e59cd5c0ec40" />
-<img width="1917" height="688" alt="image" src="https://github.com/user-attachments/assets/c3367067-7785-4c77-8541-8b437d89db11" />
+<img width="1919" height="723" alt="image" src="https://github.com/user-attachments/assets/1136b94e-8580-4d8e-9ddb-b48684c73601" />
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/35de14b3-edd8-4583-86ae-4ec2aec0401e" />
+<img width="1919" height="717" alt="image" src="https://github.com/user-attachments/assets/5ff65942-1fe2-4633-92e1-ccb8be0a28ba" />
+<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/b1311f08-7c97-4874-8dcc-9c4cda54632f" />
 
 ---
 
