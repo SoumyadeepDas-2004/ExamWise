@@ -179,7 +179,7 @@ python pipelines/pipeline.py
 - **Version Control:** Git & GitHub
 
 ```bash
-## *User Query*
+User Query
    ↓
 Query Classifier
 (intent: analytics / conceptual / factual)
@@ -204,4 +204,33 @@ LLM Answer Generation
 (RAG, no hallucination)
    ↓
 Final Answer to User
+
+
+**User Query**
+   ↓
+**Query Classifier**
+*(intent: analytics / conceptual / factual)*
+   ↓
+**Query Cleaning & Normalization**
+   ↓
+**Embedding Generation (MiniLM-B6)**
+   ↓
+**Semantic Similarity Search**
+*(ChromaDB – existing vectors)*
+   ↓
+**Top-K Context Retrieval**
+*(PYQs + syllabus + notes)*
+   ↓
+**Context Validation**
+*(unit / subject / semester alignment)*
+   ↓
+**Prompt Builder**
+*(context-only constraint)*
+   ↓
+**LLM Answer Generation**
+*(RAG, no hallucination)*
+   ↓
+**Final Answer to User**
+
 ```
+
