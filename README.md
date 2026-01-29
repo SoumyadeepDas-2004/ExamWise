@@ -179,7 +179,7 @@ python pipelines/pipeline.py
 - **Version Control:** Git & GitHub
 
 ```bash
-User Query
+## *User Query*
    ↓
 Query Classifier
 (intent: analytics / conceptual / factual)
