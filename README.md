@@ -123,7 +123,7 @@ This project is designed to run as a **single end-to-end pipeline**.
 
 ```bash
 python pipelines/pipeline.py
-
+```
 ---
 
 ## ⚠️ Current Scope & Limitations (TL;DR)
