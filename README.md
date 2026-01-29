@@ -146,5 +146,37 @@ python pipelines/pipeline.py
 > **TL;DR:** One subject today for correctness and depth.  
 > Many subjects tomorrow without redesign.
 
+---
+
+## 🧰 Tools & Technologies Used
+
+- **Programming Language:** Python 3.11
+
+- **Data Formats:** JSON  
+  Raw PYQs, normalized datasets, syllabus index, analytics outputs
+
+- **LLM:** MiniLM-B6  
+  Used for embedding generation (not free-form text generation)
+
+- **Semantic Analysis:**  
+  Rule-based + embedding-assisted semantic matching using syllabus topic index and alias maps
+
+- **Parsing & Normalization:**  
+  Custom Python parsers with schema-driven normalization and regex-based word-boundary matching
+
+- **Vector Store:** ChromaDB  
+  Stores embeddings of syllabus, PYQs, and notes for semantic retrieval
+
+- **Retrieval Method:** Retrieval-Augmented Generation (RAG)  
+  LLM responses are generated strictly from retrieved context (hallucination-safe)
+
+- **Analytics Engine:**  
+  Custom Python analytics pipeline with weighted exam group scoring (A / B / C)
+
+- **Analytical Database:** DuckDB  
+  Used for fast, local analytical queries on derived exam statistics
+
+- **Version Control:** Git & GitHub
+
 
 
