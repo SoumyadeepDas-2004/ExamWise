@@ -215,6 +215,14 @@ python pipelines/pipeline.py
 
 ---
 
+## Live Demo
+
+**Not Available**
+
+Since the model is heavy and runs locally, it couldn’t be deployed to the cloud.
+
+---
+
 ## 📸 Screenshots:
 <img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/b0d17944-f4a8-4b02-8375-06c6855ab681" />
 
