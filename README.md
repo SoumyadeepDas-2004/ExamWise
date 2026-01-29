@@ -8,14 +8,6 @@
 
 **ExamWise** is an **end-to-end exam analytics and intelligent question analysis system** that transforms **previous year question papers (PYQs)** and **official syllabus data** into **actionable exam intelligence** using **data engineering, NLP, and LLM-based reasoning**.
 
-At present, the system is **fully implemented and validated for MAKAUT B.Tech (CSE) – 6th Semester – Computer Networks**, with deep, syllabus-aligned analytics for this subject.
-
-Due to the **high manual and engineering effort required to clean, normalize, and semantically align academic data**, the current scope is intentionally limited to a single subject.  
-The architecture, however, is **designed to scale horizontally** and will be extended in the future across:
-- multiple subjects  
-- different semesters  
-- additional departments and universities  
-
 It helps answer questions like:
 - Which topics are most frequently asked?
 - Which units are high-yield vs low-yield?
@@ -132,6 +124,27 @@ This project is designed to run as a **single end-to-end pipeline**.
 ```bash
 python pipelines/pipeline.py
 
+---
+
+## ⚠️ Current Scope & Limitations (TL;DR)
+
+- **Currently implemented for:**  
+  **MAKAUT B.Tech (CSE) – 6th Semester – Computer Networks**
+
+- **Why limited to one subject?**  
+  Cleaning, normalizing, and semantically aligning academic data (PYQs + syllabus) requires **significant manual verification and engineering effort** to ensure correctness and avoid noisy or misleading analytics.
+
+- **Intentional design choice:**  
+  The scope is intentionally constrained to **validate data quality, pipeline correctness, and analytical accuracy** before scaling.
+
+- **Scalability roadmap:**  
+  The system architecture is **subject-agnostic and modular** and is designed to scale horizontally across:
+  - multiple subjects  
+  - different semesters  
+  - additional departments and universities  
+
+> **TL;DR:** One subject today for correctness and depth.  
+> Many subjects tomorrow without redesign.
 
 
 
