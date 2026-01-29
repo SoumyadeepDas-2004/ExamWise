@@ -215,10 +215,25 @@ python pipelines/pipeline.py
 
 ## 📸 Screenshots:
 <img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/b0d17944-f4a8-4b02-8375-06c6855ab681" />
+
+---
+
 <img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/98202f3a-6003-4b13-ae3d-cceda3d8b45f" />
+
+---
+
 <img width="1917" height="870" alt="image" src="https://github.com/user-attachments/assets/d881e46d-1837-4b52-8ff1-d93262aefd70" />
+
+---
+
 <img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/35de14b3-edd8-4583-86ae-4ec2aec0401e" />
+
+---
+
 <img width="1914" height="868" alt="image" src="https://github.com/user-attachments/assets/e7ff035d-058b-4f28-95dc-94feaf143f78" />
+
+---
+
 <img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/b1311f08-7c97-4874-8dcc-9c4cda54632f" />
 
 ---
